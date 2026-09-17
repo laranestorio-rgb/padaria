@@ -12,7 +12,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #3B2A1E;  /* marrom escuro (texto) */
+    color: #9b3654;  /* marrom escuro (texto) */
     background-color: #FFF8F0;  /* creme (fundo) */
 }
 
@@ -99,7 +99,7 @@ blockquote {
 
 .tabela-cardapio th,
 .tabela-cardapio td {
-    border: 1px solid #E0C9A6;
+    border: 1px solid #9b3654;
     padding: 10px;
     text-align: left;
 }
